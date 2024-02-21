@@ -20,6 +20,9 @@
 ### Выход сети с предсказаниями классов / Network output with class predictions
 ![image](https://github.com/ArtemAvgutin/CIFAR10_vgg16/assets/131138862/0133ae8a-bacd-4b85-98e0-733853b18add)
 
+### График обчуения и ранней остановки при переобучении / Schedule for learning and early stopping during retraining
+![image](https://github.com/ArtemAvgutin/CIFAR10_vgg16/assets/131138862/0f65630f-f3c1-4c6f-904f-c68b7258e55e)
+
 
 A training task, the goal of which was to create a model for image recognition on the CIFAR-10 dataset using the VGG16 network and transfer learning and fine-tuning methods. I aimed to create an efficient model that could classify images into 10 different classes. After this, I planned to fine-tun the model to improve its performance on a specific classification task.
 
